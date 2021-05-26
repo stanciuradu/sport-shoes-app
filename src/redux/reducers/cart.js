@@ -15,7 +15,7 @@ const initialState = {
         return newState;
       case "DELET_CART":
         // preiau produsul din action.payload
-        const sneakerDelet = action.payload;
+        // const sneakerDelet= action.payload;
         const newStateDelet = {
           ...state,
           sneakers: [],
