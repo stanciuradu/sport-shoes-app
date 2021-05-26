@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    background-color: rgb(238, 153, 153);
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.header .link{
+    text-decoration: none;
+    color: white;
+}
+.header .cart{
+    display: flex;
+    align-items: center;
+}
+.cart p{
+    margin-top: 1rem;
+}
+.cart .icon{
+    margin-right: 0.5rem;
+}

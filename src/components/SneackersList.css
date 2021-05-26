@@ -1,0 +1,38 @@
+.container .col-12-buttons{
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 1rem;
+    margin: 0 auto;
+    margin-bottom: 1.5rem;
+}
+
+.col-12-buttons input{
+    height: 2rem;
+    font-size: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+.col-12-buttons button{
+    width: 15rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    background-color: burlywood;
+    color: white;
+}
+.col-12-buttons button:hover{
+    background-color: chartreuse;
+}
+.col-12-buttons #name{
+    height: 3rem;
+    background-color: darkblue;
+}
+.col-12-buttons #name:hover{
+    background-color: rgb(255, 61, 47);
+}
+.col-12-buttons #price{
+    height: 3rem;
+    background-color: rgb(0, 139, 93);
+}
+.col-12-buttons #price:hover{
+    background-color: rgb(47, 255, 203);
+}

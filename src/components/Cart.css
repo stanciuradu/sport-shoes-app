@@ -1,0 +1,19 @@
+.button-delet {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 1rem;
+  }
+  .button-delet button:hover {
+    background-color: blue;
+  }
+  .mesaj-cart {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 12rem;
+  }
+  .mesaj-cart button:hover {
+    background-color: blueviolet;
+  }

@@ -1,0 +1,93 @@
+[
+    {
+        "id":1,
+        "image":"https://i.imgur.com/t1SQa09.jpg",
+        "name":"Nike green",
+        "size1":40,
+        "size2":41,
+        "size3":42,
+        "size4":43,
+        "price":"799 $"
+    },
+    {
+        "id":2,
+        "image":"https://i.imgur.com/qZFe3d9.jpg",
+        "name":"Nike black",
+        "size1":40,
+        "size2":41,
+        "size3":42,
+        "size4":43,
+        "price":"399 $"
+    },
+    {
+        "id":3,
+        "image":"https://i.imgur.com/gd5pY2j.jpg",
+        "name":"Nike purple",
+        "size1":40,
+        "size2":41,
+        "size3":42,
+        "size4":43,
+        "price":"599 $"
+    },
+    {
+        "id":4,
+        "image":"https://i.imgur.com/wG81pw0.jpg",
+        "name":"Nike blue",
+        "size1":40,
+        "size2":41,
+        "size3":42,
+        "size4":43,
+        "price":"499 $"
+    },
+    {
+        "id":5,
+        "image":"https://i.imgur.com/5ygJ9q8.jpg",
+        "name":"Nike brown",
+        "size1":40,
+        "size2":41,
+        "size3":42,
+        "size4":43,
+        "price":"899 $"
+    },
+    {
+        "id":6,
+        "image":"https://i.imgur.com/esbf0pi.jpg",
+        "name":"Nike grey",
+        "size1":40,
+        "size2":41,
+        "size3":42,
+        "size4":43,
+        "price":"999 $"
+    },
+    {
+        "id":7,
+        "image":"https://i.imgur.com/zbaOafD.jpg",
+        "name":"Nike red",
+        "size1":40,
+        "size2":41,
+        "size3":42,
+        "size4":43,
+        "price":"1299 $"
+    },
+    {
+        "id":8,
+        "image":"https://i.imgur.com/7m9aXtm.jpg",
+        "name":"Nike white",
+        "size1":40,
+        "size2":41,
+        "size3":42,
+        "size4":43,
+        "price":"1499 $"
+    },
+    {
+        "id":9,
+        "image":"https://i.imgur.com/yZTTw5D.jpg",
+        "name":"Nike pink",
+        "size1":40,
+        "size2":41,
+        "size3":42,
+        "size4":43,
+        "price":"1599 $"
+    }
+    
+]
