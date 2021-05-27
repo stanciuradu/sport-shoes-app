@@ -13,7 +13,7 @@ class Home extends React.Component {
 
   handleFilterSneackers(event) {
     const filterSneackers = this.state.sneakers.filter(
-      (sneaker) => sneaker.id > 4
+      (sneaker) => sneaker.id >= 1 && sneaker.id <= 6
     );
     this.setState({ sneakers: filterSneackers });
   }
