@@ -14,6 +14,8 @@
 * Click pe "Sortează după id" - va sorta produsele după id
 
 * Click pe cos(iconita) - va afisa produsele adaugate in cos. La click pe butonul "Șterge produsul din coș" se pot elimina produsele din cos
+#
+Link către aplicație:https://nike-sport-shoes.netlify.app/
 
 
 
